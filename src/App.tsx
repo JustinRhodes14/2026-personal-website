@@ -21,7 +21,6 @@ export default function App() {
           <Projects />
           <Contact />
         </main>
-        <Footer />
       </div>
     </ThemeProvider>
   )
