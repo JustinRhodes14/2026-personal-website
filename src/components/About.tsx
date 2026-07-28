@@ -15,7 +15,7 @@ export default function About() {
         <SectionWrapper delay={0.1}>
           <div className="space-y-4 text-gray-600 dark:text-gray-400 leading-relaxed">
             <p>
-              I'm a Senior Software Engineer at <span className="text-purple-600 dark:text-purple-400 font-medium">ADP</span>,
+              I'm a Senior Application Developer at <span className="text-purple-600 dark:text-purple-400 font-medium">ADP</span>,
               where I work full-stack on projects for the WorkForce Now product, a payroll and HR
               platform used by millions of people worldwide. On the backend, my work spans building
               tools for fast data analysis, equipping QA teams with the data and setup they need to
@@ -49,7 +49,7 @@ export default function About() {
           </div>
 
           <div className="mt-8 flex flex-wrap gap-3">
-            {['Open to new opportunities', 'Senior Software Engineer', 'Full-Stack & Databases', 'NJ & NY / Remote'].map(tag => (
+            {['Open to new opportunities', 'Senior Application Developer', 'Full-Stack & Databases', 'NJ & NY / Remote'].map(tag => (
               <span
                 key={tag}
                 className="px-3 py-1 text-xs font-mono text-purple-600 dark:text-purple-400 border border-purple-500/30 rounded-full bg-purple-500/5"

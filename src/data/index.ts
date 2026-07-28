@@ -36,7 +36,7 @@ export const SKILLS = [
 export const EXPERIENCE = [
   {
     company: 'ADP',
-    role: 'Senior Software Engineer',
+    role: 'Senior Application Developer',
     period: '2022 – Present',
     location: 'Remote',
     description:

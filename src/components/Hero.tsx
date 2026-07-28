@@ -4,7 +4,7 @@ import { HiArrowDown } from 'react-icons/hi'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { SOCIAL_LINKS } from '../data'
 
-const ROLES = ['Senior Software Engineer', 'Full Stack Developer', 'Problem Solver']
+const ROLES = ['Senior Application Developer', 'Full Stack Developer', 'Problem Solver']
 
 export default function Hero() {
   const [roleIndex, setRoleIndex] = useState(0)
