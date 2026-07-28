@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# stuff
+CLAUDE.md
+personal_projects.code-workspace
+.gitignore
+.claude
